@@ -8,4 +8,4 @@ Interact - E key / South button\
 \
 Have fun! :)\
 \
-packges used: Universal Render Pipeline, Animation rigging, Input system, Shader graph\
+packges used: Universal Render Pipeline, Animation rigging, Input system, Shader graph
